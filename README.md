@@ -1,4 +1,4 @@
-**AI-Driven Alien Invasion Game**
+# **AI-Driven Alien Invasion Game**
 An engaging arcade game where players defend against waves of aliens, featuring adaptive difficulty powered by machine learning.
 
 **Features**
@@ -12,7 +12,7 @@ An engaging arcade game where players defend against waves of aliens, featuring 
 
 **Game Architecture:** Modular design for bullet-alien interactions, scoring, and fleet management.
 
-**Tools & Technologies**
+### **Tools & Technologies**
 Programming Language: Python
 
 Libraries: Pygame, Scikit-learn
@@ -21,3 +21,7 @@ Machine Learning Model: Random Forest Regressor
 
 Additional Tools: Joblib (model persistence), CSV for logging metrics
 
+## How to Run
+1. Clone the repository.
+2. Install dependencies using `pip install -r requirements.txt`.
+3. Run the game with `python main.py`.
